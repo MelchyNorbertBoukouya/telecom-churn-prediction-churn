@@ -26,7 +26,6 @@ IBM Telco Customer Churn Dataset (Kaggle)
 
 ## Models Used
 - Logistic Regression
-- Random Forest
 
 ## Key Findings
 - Monthly contract customers churn more
